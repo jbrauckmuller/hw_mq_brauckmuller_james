@@ -2,8 +2,20 @@ body {
 	background-color: #dbdbdb;
 }
 
-@media (max-width: 960px) and (min-width: 715px )  {
+@media (min-width: 675px) {
 	body {
-		background-color: orange;
+		background-color: yellow;
+	}
+}
+
+@media (min-width: 675px) {
+	body {
+		background-color: blue;
+	}
+}
+
+@media (min-width: 675px) {
+	body {
+		background-color: red;
 	}
 }
